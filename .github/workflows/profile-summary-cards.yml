@@ -3,7 +3,7 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule:
     # Runs at 4am JST
-    - cron: '0 19 * * *' # ①
+    - cron: '* * /24 * * *' # ①
   workflow_dispatch:
 
 jobs:
