@@ -8,7 +8,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/nagata_ichiko?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/nagata-ichiko">
-    <img height="20" src="https://img.shields.io/github/followers/nagata_ichiko?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/nagata-ichiko?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/nagataichiko">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nagataichiko/posts.svg" />
