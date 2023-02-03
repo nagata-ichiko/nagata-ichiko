@@ -17,6 +17,8 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
   </a>
 </p>
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
   
 <p align="left">
   <a href="https://zenn.dev/nagataichiko">
