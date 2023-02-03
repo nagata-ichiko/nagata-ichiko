@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/nagata-ichiko/nagata-ichiko/">
-    <img src="https://komarev.com/ghpvc/?username=nagata-ichiko" alt="yutkat" />
+    <img src="https://komarev.com/ghpvc/?username=nagata-ichiko" alt="nagata-ichiko" />
   </a>
   <a href="http://twitter.com/nagata_ichiko">
     <img height="20" src="https://img.shields.io/twitter/follow/nagata_ichiko?label=Twitter&logo=twitter&style=flat" />
@@ -18,7 +18,7 @@
   </a>
 </p>
   
-  <p align="left">
+<p align="left">
   <a href="https://zenn.dev/nagataichiko">
     <img height="20" src="https://zenn.badge.nikaera.com/s/nagataichiko/likes" />
   </a>
