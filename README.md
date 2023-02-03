@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!--START_SECTION:lapras-card-->
+<a href="https://lapras.com/public/YBCUA6D" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=2.68&b=3.67&i=3.04&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 2/3/2023, 2:48:35 AM
+<!--END_SECTION:lapras-card-->
+
 <p align="left">
   <a href="https://github.com/nagata-ichiko/nagata-ichiko/">
     <img src="https://komarev.com/ghpvc/?username=nagata-ichiko" alt="nagata-ichiko" />
@@ -16,12 +21,7 @@
   <//qiita.com/nagataichiko">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
   </a>
-</p>
-<!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/YBCUA6D" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=2.68&b=3.67&i=3.04&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 2/3/2023, 2:48:35 AM
-<!--END_SECTION:lapras-card-->
-  
+</p>  
 <p align="left">
   <a href="https://zenn.dev/nagataichiko">
     <img height="20" src="https://zenn.badge.nikaera.com/s/nagataichiko/likes" />
