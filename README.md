@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**nagata-ichiko/nagata-ichiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/nagata-ichiko/nagata-ichiko/">
+    <img src="https://komarev.com/ghpvc/?username=nagata-ichiko" alt="yutkat" />
+  </a>
+  <a href="http://twitter.com/nagatai_chiko">
+    <img height="20" src="https://img.shields.io/twitter/follow/nagata_ichiko?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/nagata-ichiko">
+    <img height="20" src="https://img.shields.io/github/followers/nagata_ichiko?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/nagataichiko">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/nagataichiko/posts.svg" />
+  </a>
+  <//qiita.com/nagataichiko">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
+  </a>
+</p>
