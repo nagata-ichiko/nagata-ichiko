@@ -17,3 +17,21 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
   </a>
 </p>
+  
+  <p align="left">
+  <a href="https://zenn.dev/nagataichiko">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/nagataichiko/likes" />
+  </a>
+  <a href="https://zenn.dev/nagataichiko">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/nagataichiko/followers" />
+  </a>
+  <a href="https://zenn.dev/nagataichiko">
+    <img height="20" src="https://zenn.badge.nikaera.com/s/nagataichiko/articles" />
+  </a>
+  <a href="http://qiita.com/nagataichiko">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
+  </a>
+  <a href="http://qiita.com/nagataichiko">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/nagataichiko/posts.svg" />
+  </a>
+</p>
