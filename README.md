@@ -7,36 +7,36 @@ Last Updated on 2/5/2023, 1:50:51 AM
 
 <p align="left">
   <a href="https://github.com/nagata-ichiko/nagata-ichiko/">
-    <img height="30" src="https://komarev.com/ghpvc/?username=nagata-ichiko" alt="nagata-ichiko" />
+    <img height="25" src="https://komarev.com/ghpvc/?username=nagata-ichiko" alt="nagata-ichiko" />
   </a>
   <a href="http://twitter.com/nagata_ichiko">
-    <img height="30" src="https://img.shields.io/twitter/follow/nagata_ichiko?label=Twitter&logo=twitter&style=flat" />
+    <img height="25" src="https://img.shields.io/twitter/follow/nagata_ichiko?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/nagata-ichiko">
-    <img height="30" src="https://img.shields.io/github/followers/nagata-ichiko?label=follow&logo=github&style=flat" />
+    <img height="25" src="https://img.shields.io/github/followers/nagata-ichiko?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/nagataichiko">
-    <img height="30" src="https://qiita-badge.apiapi.app/s/nagataichiko/posts.svg" />
+    <img height="25" src="https://qiita-badge.apiapi.app/s/nagataichiko/posts.svg" />
   </a>
   <//qiita.com/nagataichiko">
-    <img height="30" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
+    <img height="25" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
   </a>
 </p>  
 <p align="left">
   <a href="https://zenn.dev/nagataichiko">
-    <img height="30" src="https://zenn.badge.nikaera.com/s/nagataichiko/likes" />
+    <img height="25" src="https://zenn.badge.nikaera.com/s/nagataichiko/likes" />
   </a>
   <a href="https://zenn.dev/nagataichiko">
-    <img height="30" src="https://zenn.badge.nikaera.com/s/nagataichiko/followers" />
+    <img height="25" src="https://zenn.badge.nikaera.com/s/nagataichiko/followers" />
   </a>
   <a href="https://zenn.dev/nagataichiko">
-    <img height="30" src="https://zenn.badge.nikaera.com/s/nagataichiko/articles" />
+    <img height="25" src="https://zenn.badge.nikaera.com/s/nagataichiko/articles" />
   </a>
   <a href="http://qiita.com/nagataichiko">
-    <img height="30" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
+    <img height="25" src="https://qiita-badge.apiapi.app/s/nagataichiko/contributions.svg" />
   </a>
   <a href="http://qiita.com/nagataichiko">
-    <img height="30" src="https://qiita-badge.apiapi.app/s/nagataichiko/posts.svg" />
+    <img height="25" src="https://qiita-badge.apiapi.app/s/nagataichiko/posts.svg" />
   </a>
 </p>
 
