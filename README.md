@@ -6,8 +6,6 @@ I currently live in Hokkaido, Japan. I am currently working for a company in the
 
 In addition to web/mobile development, I have experience in embedded and desktop application development. I have been involved in the development of image processing, signal processing, 3D processing, navigation systems, and in-car sound systems.
 
-My management experience includes leading up to 15 projects as a project leader. My work includes customer negotiation, progress management, requirement definition, design, implementation, testing, and operation.
-
 My goal is to become a generalist/full-stack developer. I am capable of handling anything from upstream to downstream, including web/mobile/desktop/embedded development.
 
 <!--START_SECTION:lapras-card-->
