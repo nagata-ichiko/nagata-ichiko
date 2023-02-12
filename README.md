@@ -2,6 +2,14 @@
 Welcome to my page!
 I'm Ichiko Nagata, from Hokkaido, Japan.
 
+I currently live in Hokkaido, Japan. I am currently working for a company in the Tokyo metropolitan area and doing full-remote web/mobile development.
+
+In addition to web/mobile development, I have experience in embedded and desktop application development. I have been involved in the development of image processing, signal processing, 3D processing, navigation systems, and in-car sound systems.
+
+My management experience includes leading up to 15 projects as a project leader. My work includes customer negotiation, progress management, requirement definition, design, implementation, testing, and operation.
+
+My goal is to become a generalist/full-stack developer. I am capable of handling anything from upstream to downstream, including web/mobile/desktop/embedded development.
+
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/YBCUA6D" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.01&b=3.67&i=3.06&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 Last Updated on 2/12/2023, 1:49:01 AM
