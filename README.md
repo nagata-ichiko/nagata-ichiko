@@ -10,7 +10,7 @@ My goal is to become a generalist/full-stack developer. I am capable of handling
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/YBCUA6D" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/11/2023, 1:34:34 AM
+Last Updated on 5/12/2023, 1:29:08 AM
 <!--END_SECTION:lapras-card-->
 
 <p align="left">
