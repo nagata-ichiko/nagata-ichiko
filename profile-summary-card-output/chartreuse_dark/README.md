@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/nagata-ichiko/nagata-ichiko/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)
-```
-
-    

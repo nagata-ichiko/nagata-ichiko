@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/nagata-ichiko/nagata-ichiko/main/profile-summary-card-output/flag_india/3-stats.svg)
-```
-
-    
